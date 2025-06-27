@@ -1,4 +1,4 @@
 # Intern-Repo
 This is my internship - Repository for practice
 <br>
-Auther - Chirag
+Auther - Chirag Singh
